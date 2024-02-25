@@ -1,1 +1,15 @@
 Machine Learning CAs are here
+
+CA1: Classification projects ( Breast Cancer Wisconsin and Sea-jungle-classification)
+
+CA2: KNN on Iris dataset, KDE estimation ( using Parzen and GMM )
+
+CA3: Ecommerce-Customers-Analysis and On-Click_Prediction Data Science Project
+Spam-Prediction NLP task
+House-Price_Prediction Regression task
+
+CA4: Classification MNIST data using FullyConnected, CNN networks
+and using transfer learning ( MobileNet )
+
+CA5: Dimensionality Reduction tasks
+Using KMeans and PCA to compress image
